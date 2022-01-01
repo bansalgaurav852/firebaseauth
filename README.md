@@ -1,6 +1,6 @@
 # firebase
 
-A new Flutter project.
+firebase authentication using Google  Account and phone number
 
 ## Getting Started
 
