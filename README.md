@@ -1,6 +1,6 @@
 # firebase
 
-firebase authentication using Google  Account and phone number
+firebase authentication for Google  Account and phone number
 
 ## Getting Started
 
